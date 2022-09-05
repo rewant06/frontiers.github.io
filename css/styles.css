@@ -1,3 +1,18 @@
+
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+
+}
+
+#header-nav {
+
+	background-color: #fb6319;
+	border: 0;
+	border-radius: 0;
+}
+
 .row{
 	margin-bottom: 15px;
 }
